@@ -2,8 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-nav: true
+description: This is the page containing codes for the machine learning research projects conducted related to Cancer and Molecular Biology.
 nav_order: 4
 ---
 
