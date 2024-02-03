@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Research during my Bachelors and MS leading to the following publications
-years: [2017, 2021, 2022, 2023, 2024]
+years: [2017, 2020, 2021 2023]
 nav: true
 nav_order: 2
 ---

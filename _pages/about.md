@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Research Associate, <a href='http://www.genistabio.com/'>Genista Biosciences</a>, San Jose, CA, 95138, USA.
 
