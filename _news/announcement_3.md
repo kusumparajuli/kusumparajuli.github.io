@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-09-01 
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+One co-authored paper [Chlorpyrifos and dichlorvos in combined exposure reveals antagonistic interaction to the freshwater fish Mrigal, Cirrhinus mrigala](https://pubmed.ncbi.nlm.nih.gov/35298720) has been accepted by **Ecotoxicology**. Congratulations Dr. Prabesh Kunwar!!!
