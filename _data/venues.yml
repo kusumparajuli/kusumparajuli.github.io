@@ -4,3 +4,20 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"CBP":
+  url: https://www.sciencedirect.com/journal/comparative-biochemistry-and-physiology-part-a-molecular-and-integrative-physiology
+  color: "#0000FF"
+
+"PLOS ONE":
+  url: https://journals.plos.org/plosone/
+  color: "#FFC0CB"
+
+"IJFAS":
+  url: https://www.fisheriesjournal.com/
+  color: "#000000"
+
+"Ecotoxicology":
+  url: https://link.springer.com/journal/10646
+  color: "#8633FF"
+
