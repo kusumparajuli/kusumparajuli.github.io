@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Associate, <a href='http://www.genistabio.com/'>Genista Biosciences</a>, San Jose, CA, 95138, USA.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kusumpic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -14,13 +14,15 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Associate at [Genista Biosciences](http://www.genistabio.com/) under the Molecular Biology team. Before joining Genista Biosciences, I was an MS student at Purdue University, Fort Wayne (PFW) working with [Prof. Ahmed Mustafa](https://users.pfw.edu/mustafaa) within Life Science Resource Center. Also, during my MS at PFW, I served as a teaching assistant for various Biology-related undergraduate and graduate courses. Also, I completed MS and Bachelors from  [Tribhuvan University](https://tu.edu.np/), Nepal. I am honored with various awards including PFW Top 50 Award, and Best TA Award. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#### **Research Overview**
+I am interested in two main research areas: (a) Exploring the molecular mechanisms involved in the onset of cancer and investigating potential therapeutic interventions, with a focus on immunotherapy, and (b) employing cutting-edge machine learning models across diverse domains, particularly in the fields of Cancer Biology and Molecular Biology.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+#### **Research Interests**
+Cell and Molecular Biology, Cancer Biology, Stress Physiology, Microbiology, Immunology, Stem Cell Biology.
